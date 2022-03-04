@@ -15,6 +15,14 @@ Samsung Galaxy S
 
 [Samsung Galaxy S21 FE](http://is.gd/az9pRf)
 
+[Samsung Galaxy S20 Ultra](http://is.gd/HeDGjv)
+
+[Samsung Galaxy S20+](http://is.gd/Gir4Ln)
+
+[Samsung Galaxy S20](http://is.gd/0i8vno)
+
+[Samsung Galaxy S20 FE](http://is.gd/yHM9Yd)
+
 
 Samsung Galaxy Note
 --------------------
