@@ -9,6 +9,12 @@ Samsung Galaxy S
 
 [Samsung Galaxy S21 Ultra](http://is.gd/NseGjH)
 
+[Samsung Galaxy S21+](http://is.gd/ezid0d)
+
+[Samsung Galaxy S21](http://is.gd/9vEMso)
+
+[Samsung Galaxy S21 FE]()
+
 
 Samsung Galaxy Note
 --------------------
