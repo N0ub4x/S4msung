@@ -20,7 +20,7 @@ Samsung Galaxy Note
 --------------------
 [Samsung Galaxy S22 Ultra](http://is.gd/CXTVLm)
 
-[Samsung Galaxy S21](http://is.gd/oz7ei7)
+[Samsung Galaxy Note 21](http://is.gd/oz7ei7)
 
 [Samsung Galaxy Note 20 Ultra](http://is.gd/qOEF2z)
 
