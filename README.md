@@ -24,6 +24,15 @@ Samsung Galaxy S
 [Samsung Galaxy S20 FE](http://is.gd/yHM9Yd)
 
 
+Samsung Galaxy Z Fold
+----------------------
+[Samsung Galaxy Z Fold 3](http://is.gd/Aceoh5)
+
+[Samsung Galaxy Z Fold 2](http://is.gd/evaMoy)
+
+[Samsung Galaxy Z Fold 1](http://is.gd/oz7ei7)
+
+
 Samsung Galaxy Note
 --------------------
 [Samsung Galaxy S22 Ultra](http://is.gd/CXTVLm)
