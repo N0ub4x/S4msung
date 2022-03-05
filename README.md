@@ -1,4 +1,4 @@
-# S4msung - Smartphone Samsung en 360°
+# S4msung - Smartphone / Tablette Samsung en 360°
 
 
 Samsung Galaxy S
