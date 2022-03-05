@@ -23,6 +23,8 @@ Samsung Galaxy S
 
 [Samsung Galaxy S20 FE](http://is.gd/yHM9Yd)
 
+[Samsung Galaxy S10 5G](http://is.gd/8ppOUw)
+
 [Samsung Galaxy S10+](http://is.gd/RBzN6y)
 
 [Samsung Galaxy S10](http://is.gd/ljDimy)
@@ -30,6 +32,10 @@ Samsung Galaxy S
 [Samsung Galaxy S10 Lite](http://is.gd/tSK8QF)
 
 [Samsung Galaxy S10e](http://is.gd/2KdbgH)
+
+[Samsung Galaxy S9+](http://is.gd/xuaJvw)
+
+[Samsung Galaxy S9](http://is.gd/wNJh1M)
 
 [Samsung Galaxy S5](http://is.gd/kCZEpN)
 
