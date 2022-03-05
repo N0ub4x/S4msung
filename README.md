@@ -24,6 +24,10 @@ Samsung Galaxy S
 [Samsung Galaxy S20 FE](http://is.gd/yHM9Yd)
 
 
+
+[Samsung Galaxy S5](http://is.gd/kCZEpN)
+
+
 Samsung Galaxy Z Fold
 ----------------------
 [Samsung Galaxy Z Fold 3](http://is.gd/Aceoh5)
@@ -31,6 +35,15 @@ Samsung Galaxy Z Fold
 [Samsung Galaxy Z Fold 2](http://is.gd/evaMoy)
 
 [Samsung Galaxy Z Fold 1](http://is.gd/oz7ei7)
+
+
+Samsung Galaxy Z Flip
+----------------------
+[Samsung Galaxy Z Flip 3](http://is.gd/VqKTJn)
+
+[Samsung Galaxy Z Flip 2](http://is.gd/oz7ei7)
+
+[Samsung Galaxy Z Flip 1](http://is.gd/I7h77G)
 
 
 Samsung Galaxy Note
@@ -62,3 +75,22 @@ Samsung Galaxy Note
 [Samsung Galaxy Note 2](http://is.gd/GjEBz9)
 
 [Samsung Galaxy Note 1](http://is.gd/ScAbFK)
+
+
+Samsung Galaxy Tab S
+---------------------
+[Samsung Galaxy Tab S6 Lite](http://is.gd/umTqex)
+
+[Samsung Galaxy Tab S6](http://is.gd/Z7U9oi)
+
+[Samsung Galaxy Tab S5e](http://is.gd/qPeheJ)
+
+[Samsung Galaxy Tab S5](http://is.gd/oz7ei7)
+
+[Samsung Galaxy Tab S4](http://is.gd/a0kSZO)
+
+[Samsung Galaxy Tab S3](http://is.gd/SEQlqo)
+
+[Samsung Galaxy Tab S2](http://is.gd/6kwSRL)
+
+[Samsung Galaxy Tab S1](http://is.gd/mAWpJB)
