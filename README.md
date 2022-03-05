@@ -23,7 +23,13 @@ Samsung Galaxy S
 
 [Samsung Galaxy S20 FE](http://is.gd/yHM9Yd)
 
+[Samsung Galaxy S10+](http://is.gd/RBzN6y)
 
+[Samsung Galaxy S10](http://is.gd/ljDimy)
+
+[Samsung Galaxy S10 Lite](http://is.gd/tSK8QF)
+
+[Samsung Galaxy S10e](http://is.gd/2KdbgH)
 
 [Samsung Galaxy S5](http://is.gd/kCZEpN)
 
@@ -79,11 +85,13 @@ Samsung Galaxy Note
 
 Samsung Galaxy Tab S
 ---------------------
+[Samsung Galaxy Tab S7 Lite](http://is.gd/o5Uksd)
+
 [Samsung Galaxy Tab S6 Lite](http://is.gd/umTqex)
 
 [Samsung Galaxy Tab S6](http://is.gd/Z7U9oi)
 
-[Samsung Galaxy Tab S5e](http://is.gd/qPeheJ)
+[Samsung Galaxy Tab S5e](http://is.gd/iIs0S6)
 
 [Samsung Galaxy Tab S5](http://is.gd/oz7ei7)
 
@@ -94,3 +102,19 @@ Samsung Galaxy Tab S
 [Samsung Galaxy Tab S2](http://is.gd/6kwSRL)
 
 [Samsung Galaxy Tab S1](http://is.gd/mAWpJB)
+
+
+Samsung Galaxy Tab A
+---------------------
+[Samsung Galaxy Tab A7 Lite](http://is.gd/mQv2au)
+
+
+Samsung Galaxy Tab
+-------------------
+[Samsung Galaxy Tab 4](http://is.gd/l9oZZO)
+
+[Samsung Galaxy Tab 3](http://is.gd/nGye2W)
+
+[Samsung Galaxy Tab 2](http://is.gd/h0UHU0)
+
+[Samsung Galaxy Tab 1](http://is.gd/CC28aF)
