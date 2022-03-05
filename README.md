@@ -107,7 +107,7 @@ Samsung Galaxy Tab S
 
 [Samsung Galaxy Tab S2](http://is.gd/6kwSRL)
 
-[Samsung Galaxy Tab S1](http://is.gd/mAWpJB)
+[Samsung Galaxy Tab S1](http://is.gd/DWmBhy)
 
 
 Samsung Galaxy Tab A
