@@ -46,14 +46,14 @@ Samsung Galaxy Z Fold
 
 [Samsung Galaxy Z Fold 2](http://is.gd/evaMoy)
 
-[Samsung Galaxy Z Fold 1](http://is.gd/oz7ei7)
+[Samsung Galaxy Z Fold 1](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
 
 
 Samsung Galaxy Z Flip
 ----------------------
 [Samsung Galaxy Z Flip 3](http://is.gd/VqKTJn)
 
-[Samsung Galaxy Z Flip 2](http://is.gd/oz7ei7)
+[Samsung Galaxy Z Flip 2](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
 
 [Samsung Galaxy Z Flip 1](http://is.gd/I7h77G)
 
@@ -62,7 +62,7 @@ Samsung Galaxy Note
 --------------------
 [Samsung Galaxy S22 Ultra](http://is.gd/CXTVLm)
 
-[Samsung Galaxy Note 21](http://is.gd/oz7ei7)
+[Samsung Galaxy Note 21](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
 
 [Samsung Galaxy Note 20 Ultra](http://is.gd/qOEF2z)
 
@@ -76,7 +76,7 @@ Samsung Galaxy Note
 
 [Samsung Galaxy Note 7](http://is.gd/17pmrk)
 
-[Samsung Galaxy Note 6](http://is.gd/oz7ei7)
+[Samsung Galaxy Note 6](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
 
 [Samsung Galaxy Note 5](http://is.gd/4CYWDx)
 
