@@ -1,4 +1,4 @@
-# S4msung - Smartphone / Tablette Samsung en 360°
+# S4msung - Technologies Samsung en 360°
 
 
 Samsung Galaxy S
@@ -124,3 +124,12 @@ Samsung Galaxy Tab
 [Samsung Galaxy Tab 2](http://is.gd/h0UHU0)
 
 [Samsung Galaxy Tab 1](http://is.gd/CC28aF)
+
+
+Samsung Galaxy Watch
+---------------------
+[Samsung Galaxy Watch 4](https://360.hum3d.com/view/223089/)
+
+[Samsung Galaxy Watch 4 Classic](https://360.hum3d.com/view/223094/)
+
+[Samsung Galaxy Watch 3](https://360.hum3d.com/view/216156/)
