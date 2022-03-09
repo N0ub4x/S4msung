@@ -60,11 +60,11 @@ Samsung Galaxy Z Flip
 
 Samsung Galaxy Note
 --------------------
-[Samsung Galaxy S22 Ultra](http://is.gd/CXTVLm)
+[Samsung Galaxy S22 Ultra](https://www.samsung.com/global/galaxy/3d-360/viewer/?colorchip_visible=0&title=0&bgcolor=transparent&color-tab-wrap=0&gesture_guide=0&model_name=galaxy-s22-ultra&color=burgundy&zoom=120)
 
 [Samsung Galaxy Note 21](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
 
-[Samsung Galaxy Note 20 Ultra](http://is.gd/qOEF2z)
+[Samsung Galaxy Note 20 Ultra](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=fff&model_name=galaxy-note20-ultra&color=mystic-black&colorchip=mystic-bronze,mystic-white,mystic-black&title=0)
 
 [Samsung Galaxy Note 20](http://is.gd/h9OyDm)
 
@@ -91,7 +91,7 @@ Samsung Galaxy Note
 
 Samsung Galaxy Tab S
 ---------------------
-[Samsung Galaxy Tab S7 Lite](http://is.gd/o5Uksd)
+[Samsung Galaxy Tab S7 Lite](https://www.youtube.com/watch?v=kgIMZCuM9Tc)
 
 [Samsung Galaxy Tab S6 Lite](http://is.gd/umTqex)
 
@@ -99,7 +99,7 @@ Samsung Galaxy Tab S
 
 [Samsung Galaxy Tab S5e](http://is.gd/iIs0S6)
 
-[Samsung Galaxy Tab S5](http://is.gd/oz7ei7)
+[Samsung Galaxy Tab S5](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
 
 [Samsung Galaxy Tab S4](http://is.gd/a0kSZO)
 
@@ -112,7 +112,7 @@ Samsung Galaxy Tab S
 
 Samsung Galaxy Tab A
 ---------------------
-[Samsung Galaxy Tab A7 Lite](http://is.gd/mQv2au)
+[Samsung Galaxy Tab A7 Lite](https://www.youtube.com/watch?v=-cI5IHj_qTY)
 
 
 Samsung Galaxy Tab
