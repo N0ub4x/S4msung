@@ -1,4 +1,4 @@
-# S4msung - Technologies Samsung en 360°
+# Technologies Samsung en 360°
 
 
 Samsung Galaxy S
