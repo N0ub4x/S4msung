@@ -62,8 +62,6 @@ Samsung Galaxy Note
 --------------------
 [Samsung Galaxy S22 Ultra](https://www.samsung.com/global/galaxy/3d-360/viewer/?colorchip_visible=0&title=0&bgcolor=transparent&color-tab-wrap=0&gesture_guide=0&model_name=galaxy-s22-ultra&color=burgundy&zoom=120)
 
-[Samsung Galaxy Note 21](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
-
 [Samsung Galaxy Note 20 Ultra](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=fff&model_name=galaxy-note20-ultra&color=mystic-black&colorchip=mystic-bronze,mystic-white,mystic-black&title=0)
 
 [Samsung Galaxy Note 20](http://is.gd/h9OyDm)
