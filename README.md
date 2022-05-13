@@ -3,21 +3,21 @@
 
 Samsung Galaxy S
 -----------------
-[Samsung Galaxy S22+](http://is.gd/OCl3Je)
+[Samsung Galaxy S22+](https://www.samsung.com/global/galaxy/3d-360/viewer/?colorchip_visible=1&title=1&bgcolor=000&color-tab-wrap=0&gesture_guide=0&model_name=galaxy-s22-plus&color=phantom-white&zoom=120)
 
-[Samsung Galaxy S22](http://is.gd/y09NeO)
+[Samsung Galaxy S22](https://www.samsung.com/global/galaxy/3d-360/viewer/?colorchip_visible=1&title=1&bgcolor=000&color-tab-wrap=0&gesture_guide=0&model_name=galaxy-s22&color=phantom-white&zoom=120)
 
-[Samsung Galaxy S21 Ultra](http://is.gd/NseGjH)
+[Samsung Galaxy S21 Ultra](https://www.samsung.com/global/galaxy/3d-360/viewer/?colorchip_visible=1&title=1&bgcolor=000&color-tab-wrap=0&gesture_guide=0&theme=basic-alpha&model_name=galaxy-s21-ultra&color=phantom-black)
 
-[Samsung Galaxy S21+](http://is.gd/ezid0d)
+[Samsung Galaxy S21+](https://www.samsung.com/global/galaxy/3d-360/viewer/?colorchip_visible=1&title=1&bgcolor=000&color-tab-wrap=0&gesture_guide=0&theme=basic-alpha&model_name=galaxy-s21-plus&color=phantom-violet)
 
-[Samsung Galaxy S21](http://is.gd/9vEMso)
+[Samsung Galaxy S21](https://www.samsung.com/global/galaxy/3d-360/viewer/?colorchip_visible=1&title=1&bgcolor=000&color-tab-wrap=0&gesture_guide=0&theme=basic-alpha&model_name=galaxy-s21&color=phantom-violet)
 
-[Samsung Galaxy S21 FE](http://is.gd/az9pRf)
+[Samsung Galaxy S21 FE](https://www.samsung.com/global/galaxy/3d-360/viewer/?colorchip_visible=1&title=1&bgcolor=000&color-tab-wrap=0&gesture_guide=0&theme=basic-alpha&model_name=galaxy-s21-fe&color=white)
 
-[Samsung Galaxy S20 Ultra](http://is.gd/HeDGjv)
+[Samsung Galaxy S20 Ultra](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=000&model_name=galaxy-s20-ultra&color=cosmic-black&ccolorchip_visible=1&title=1)
 
-[Samsung Galaxy S20+](http://is.gd/Gir4Ln)
+[Samsung Galaxy S20+](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=000&model_name=galaxy-s20-plus&color=cloud-blue&colorchip_visible=1&title=1)
 
 [Samsung Galaxy S20](http://is.gd/0i8vno)
 
@@ -60,52 +60,57 @@ Samsung Galaxy Z Flip
 
 Samsung Galaxy Note
 --------------------
-[Samsung Galaxy S22 Ultra](https://www.samsung.com/global/galaxy/3d-360/viewer/?colorchip_visible=0&title=0&bgcolor=transparent&color-tab-wrap=0&gesture_guide=0&model_name=galaxy-s22-ultra&color=burgundy&zoom=120)
+[Samsung Galaxy S22 Ultra](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=000&model_name=galaxy-s22-ultra&colorchip_visible=1&title=1)
 
-[Samsung Galaxy Note 20 Ultra](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=fff&model_name=galaxy-note20-ultra&color=mystic-black&colorchip=mystic-bronze,mystic-white,mystic-black&title=0)
+[Samsung Galaxy Note 20 Ultra](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=000&model_name=galaxy-note20-ultra&colorchip_visible=1&title=1)
 
-[Samsung Galaxy Note 20](http://is.gd/h9OyDm)
+[Samsung Galaxy Note 20](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=000&model_name=galaxy-note20&colorchip_visible=1&title=1)
 
-[Samsung Galaxy Note 10](http://is.gd/1ydjHz)
+[Samsung Galaxy Note 10](https://360.hum3d.com/view/210707/)
 
-[Samsung Galaxy Note 9](http://is.gd/GxQkkX)
+[Samsung Galaxy Note 9](https://360.hum3d.com/view/205455/)
 
-[Samsung Galaxy Note 8](http://is.gd/f5QSOF)
+[Samsung Galaxy Note 8](https://360.hum3d.com/view/193384/)
 
-[Samsung Galaxy Note 7](http://is.gd/17pmrk)
+[Samsung Galaxy Note 7](https://360.hum3d.com/view/168846/)
 
 [Samsung Galaxy Note 6](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
 
-[Samsung Galaxy Note 5](http://is.gd/4CYWDx)
+[Samsung Galaxy Note 5](https://360.hum3d.com/view/143134/)
 
-[Samsung Galaxy Note 4](http://is.gd/W7fmwH)
+[Samsung Galaxy Note 4](https://360.hum3d.com/view/103257/)
 
-[Samsung Galaxy Note 3](http://is.gd/3DNNQa)
+[Samsung Galaxy Note 3](https://360.hum3d.com/view/83330/)
 
-[Samsung Galaxy Note 2](http://is.gd/GjEBz9)
+[Samsung Galaxy Note 2](https://360.hum3d.com/view/47370/)
 
-[Samsung Galaxy Note 1](http://is.gd/ScAbFK)
+[Samsung Galaxy Note 1](https://www.gsmscore.com/samsung/galaxy-note-n7000/360-degree-view/)
+
+
+Samsung Galaxy J
+------------------
+[Samsung Galaxy J1](https://360.hum3d.com/view/123790/)
 
 
 Samsung Galaxy Tab S
 ---------------------
 [Samsung Galaxy Tab S7 Lite](https://www.youtube.com/watch?v=kgIMZCuM9Tc)
 
-[Samsung Galaxy Tab S6 Lite](http://is.gd/umTqex)
+[Samsung Galaxy Tab S6 Lite](https://www.gsmarena.com/samsung_galaxy_tab_s6_lite-pictures-10158.php#fullscreen)
 
-[Samsung Galaxy Tab S6](http://is.gd/Z7U9oi)
+[Samsung Galaxy Tab S6](https://360.hum3d.com/view/211842/)
 
-[Samsung Galaxy Tab S5e](http://is.gd/iIs0S6)
+[Samsung Galaxy Tab S5e](https://www.gsmarena.com/samsung_galaxy_tab_s5e-pictures-9581.php#fullscreen)
 
 [Samsung Galaxy Tab S5](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
 
-[Samsung Galaxy Tab S4](http://is.gd/a0kSZO)
+[Samsung Galaxy Tab S4](https://360.hum3d.com/view/206750/)
 
-[Samsung Galaxy Tab S3](http://is.gd/SEQlqo)
+[Samsung Galaxy Tab S3](https://360.hum3d.com/view/184251/)
 
-[Samsung Galaxy Tab S2](http://is.gd/6kwSRL)
+[Samsung Galaxy Tab S2](https://360.hum3d.com/view/145756/)
 
-[Samsung Galaxy Tab S1](http://is.gd/DWmBhy)
+[Samsung Galaxy Tab S1](https://360.hum3d.com/view/95455/)
 
 
 Samsung Galaxy Tab A
@@ -115,13 +120,13 @@ Samsung Galaxy Tab A
 
 Samsung Galaxy Tab
 -------------------
-[Samsung Galaxy Tab 4](http://is.gd/l9oZZO)
+[Samsung Galaxy Tab 4](https://360.hum3d.com/view/93805/)
 
-[Samsung Galaxy Tab 3](http://is.gd/nGye2W)
+[Samsung Galaxy Tab 3](https://360.hum3d.com/view/54732/)
 
-[Samsung Galaxy Tab 2](http://is.gd/h0UHU0)
+[Samsung Galaxy Tab 2](https://360.hum3d.com/view/34524/)
 
-[Samsung Galaxy Tab 1](http://is.gd/CC28aF)
+[Samsung Galaxy Tab 1](https://360.hum3d.com/view/19752/)
 
 
 Samsung Galaxy Watch
