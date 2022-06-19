@@ -19,43 +19,43 @@ Samsung Galaxy S
 
 [Samsung Galaxy S20+](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=000&model_name=galaxy-s20-plus&color=cloud-blue&colorchip_visible=1&title=1)
 
-[Samsung Galaxy S20](http://is.gd/0i8vno)
+[Samsung Galaxy S20](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=000&model_name=galaxy-s20&color=cosmic-gray&colorchip=cosmic-gray,cloud-blue,cloud-pink,cloud-white,aura-red&colorchip_visible=1&title=1)
 
-[Samsung Galaxy S20 FE](http://is.gd/yHM9Yd)
+[Samsung Galaxy S20 FE](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=000&model_name=galaxy-s20-fe&color=cloud-blue&colorchip=cloud-navy,cloud-white,cloud-lavender,cloud-mint,cloud-red,cloud-orange&colorchip_visible=1&title=1)
 
-[Samsung Galaxy S10 5G](http://is.gd/8ppOUw)
+[Samsung Galaxy S10 5G](https://360.hum3d.com/view/209289/)
 
-[Samsung Galaxy S10+](http://is.gd/RBzN6y)
+[Samsung Galaxy S10+](https://360.hum3d.com/view/209246/)
 
-[Samsung Galaxy S10](http://is.gd/ljDimy)
+[Samsung Galaxy S10](https://360.hum3d.com/view/209244/)
 
-[Samsung Galaxy S10 Lite](http://is.gd/tSK8QF)
+[Samsung Galaxy S10 Lite](https://360.hum3d.com/view/214065/)
 
-[Samsung Galaxy S10e](http://is.gd/2KdbgH)
+[Samsung Galaxy S10e](https://360.hum3d.com/view/209282/)
 
-[Samsung Galaxy S9+](http://is.gd/xuaJvw)
+[Samsung Galaxy S9+](https://360.hum3d.com/view/202794/)
 
-[Samsung Galaxy S9](http://is.gd/wNJh1M)
+[Samsung Galaxy S9](https://360.hum3d.com/view/202771/)
 
-[Samsung Galaxy S5](http://is.gd/kCZEpN)
+[Samsung Galaxy S5](https://360.hum3d.com/view/87544/)
 
 
 Samsung Galaxy Z Fold
 ----------------------
-[Samsung Galaxy Z Fold 3](http://is.gd/Aceoh5)
+[Samsung Galaxy Z Fold 3](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=000&model_name=galaxy-z-fold3-5g&colorchip_visible=1&title=1)
 
-[Samsung Galaxy Z Fold 2](http://is.gd/evaMoy)
+[Samsung Galaxy Z Fold 2](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=000&model_name=galaxy-z-fold2&colorchip_visible=1&title=1)
 
-[Samsung Galaxy Z Fold 1](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
+[Samsung Galaxy Z Fold 1](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg)
 
 
 Samsung Galaxy Z Flip
 ----------------------
-[Samsung Galaxy Z Flip 3](http://is.gd/VqKTJn)
+[Samsung Galaxy Z Flip 3](https://www.samsung.com/global/galaxy/3d-360/viewer/?bgcolor=000&model_name=galaxy-z-flip3-5g&colorchip_visible=1&title=1)
 
-[Samsung Galaxy Z Flip 2](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
+[Samsung Galaxy Z Flip 2](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg)
 
-[Samsung Galaxy Z Flip 1](http://is.gd/I7h77G)
+[Samsung Galaxy Z Flip 1](https://360.hum3d.com/view/216543/)
 
 
 Samsung Galaxy Note
@@ -74,7 +74,7 @@ Samsung Galaxy Note
 
 [Samsung Galaxy Note 7](https://360.hum3d.com/view/168846/)
 
-[Samsung Galaxy Note 6](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
+[Samsung Galaxy Note 6](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg)
 
 [Samsung Galaxy Note 5](https://360.hum3d.com/view/143134/)
 
@@ -102,7 +102,7 @@ Samsung Galaxy Tab S
 
 [Samsung Galaxy Tab S5e](https://www.gsmarena.com/samsung_galaxy_tab_s5e-pictures-9581.php#fullscreen)
 
-[Samsung Galaxy Tab S5](https://raw.githubusercontent.com/N0ub4x/S4msung/main/404.png)
+[Samsung Galaxy Tab S5](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg)
 
 [Samsung Galaxy Tab S4](https://360.hum3d.com/view/206750/)
 
